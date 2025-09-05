@@ -164,7 +164,7 @@ export default function App() {
           zIndex: 2147483648,
           padding: "12px 22px",
           borderRadius: 30,
-          background: "white",
+          background: "bg-zinc-900",
           border: "none",
           fontWeight: 800,
           cursor: "pointer",
